@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Projeto de análise de hábitos de estudo usando reconhecimento de padrões, redes neurais e aprendizado de máquina. Utilizando Python e TensorFlow, treinamos um modelo para prever hábitos de estudo com base em dados coletados, identificando padrões e fatores que influenciam a eficácia dos estudos.
+Projeto de análise de hábitos de estudo usando reconhecimento de padrões, redes neurais e aprendizado de máquina. Utilizando Python e TensorFlow, treinamos um modelo para prever hábitos de estudo com base em dados coletados, identificando padrões e fatores que influenciam a eficácia dos estudos. - Formulário https://docs.google.com/forms/d/e/1FAIpQLSfbTKa68HnNHK86pON00KLN7AD7sqdrOebFPvy_Rf2mWbtfUQ/viewform
 
 ## Estrutura do Projeto
 
